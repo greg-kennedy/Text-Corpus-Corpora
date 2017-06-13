@@ -1,0 +1,6 @@
+Revision history for Perl extension Text::Corpus::Corpora.
+
+1.00  Tue Jun 13 15:04:46 2017
+	- original version; created by h2xs 1.23 with options
+		-AX -n Text::Corpus::Corpora -v 1.00 -b 5.14.0
+

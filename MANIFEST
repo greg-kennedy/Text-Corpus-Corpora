@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+LICENSE
+README
+t/Text-Corpus-Corpora.t
+lib/Text/Corpus/Corpora.pm
